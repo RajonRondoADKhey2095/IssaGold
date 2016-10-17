@@ -1,48 +1,17 @@
-<html>
-<head>
-<meta charset="utf-8" />
-<title>Hackathon Neuroplanète 2016</title>
-</head>
-<body>
-<body background="C:\Users\redar\Downloads\gris.jpg">
-<center><h1 style="color : black " >Mind Care:<br/>
-L'application MindCare : Obtenez une aide psychologique quand vous le souhaitez depuis votre smartphone</h1></center><br/><br/><br/>
-
-<div id="conteneur">
-
-    <center><div class="element"><img src="C:\Users\redar\Downloads\hacksante-2015-raoul-gilibert-0250.jpg"></div><span> Précédent Hackaton </span></center><br/>
+<h1> Neuroplanete Hackathon 2016 : Mind Care</h1>
 
 
-    <center><div class="element"><img src="C:\Users\redar\Downloads\14699836_304090983310002_233024397_n.jpg"> </div><span> Jean François Carasco<br/>Animateur Hackaton santé 2016</span></center><br/><br/>
+<img
+src="http://www.brandsilver.fr/wp-content/uploads/2016/09/NEUROPLANETE-514x386.jpg">
+
+<img
+"http://images.google.fr/imgres?imgurl=https%3A%2F%2Fshop.igennus.com%2Fimages%2FC%2FMindCare-Logo-Vertical%2520-%2520Copy.jpg&imgrefurl=https%3A%2F%2Fshop.igennus.com%2FMindCare%2F&h=134&w=209&tbnid=1RzQHg9HTRpGXM%3A&docid=x3lM2In1dqt1_M&ei=LfwEWInQIISwa76_oMgF&tbm=isch&iact=rc&uact=3&dur=296&page=0&start=0&ndsp=15&ved=0ahUKEwjJmreHoeLPAhUE2BoKHb4fCFkQMwgeKAAwAA&bih=611&biw=1110"
 
 
-</div>
-<div class="colonnes">
+<p> 
+<br>Le Hackathon Neuroplanete est axe sur le domaine de la sante connecte.
+</p>
+Vestibulum est metus, blandit at euismod sit amet, pretium a diam. Duis vestibulum mattis tellus, accumsan bibendum neque imperdiet et. Ut vulputate eu libero placerat consectetur. Maecenas lobortis tellus lacus, vel varius quam lacinia pellentesque. Nullam mattis sem in purus pulvinar euismod. Mauris viverra est hendrerit vestibulum lobortis. Mauris aliquet ex vel nibh dictum tempor. Quisque et risus eu lectus finibus pulvinar. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec rhoncus feugiat dolor. Fusce eu lacus ultricies, euismod nibh et, iaculis tortor.
+<p>
 
-   <FONT face="arial"> <p class="colonne">En marge du Forum « Neuroplanète », l’événement organisé par la Ville de Nice et l’hebdomadaire Le Point, en partenariat avec la Métropole Nice Côte d’Azur, Telecom Valley et l’organisme international Hacking Health, se déroulera les 6, 7 et 8 octobre 2016 au 27 Delvalle, quartier général de la santé connectée à Nice.</p>
-
-    <p class="contenu">Pendant près de 48h et sous la conduite de l’association Telecom Valley, les élèves d’écoles de commerce et d’ingénieur, designers et codeurs sont invités à créer les prototypes de solutions numériques et mobiles pour la santé. Au préalable, des professionnels du secteur (médecins, infirmiers, kinésithérapeutes, étudiants en médecine) auront exposé leurs besoins et les problématiques rencontrées.</p>
-
-    <p class="contenu">En effet la <em>force</em> de l’équipe vient de son adhésion à un but commun. Quand cette condition est remplie, que les énergies se tendent vers un même objectif, <span style=" color : purple ">la somme vaut beaucoup plus que les parties.</span> </p>
-<p class="contenu"> L’esprit qui permet nos réalisations n’existe que par les milliards de cellules qui nous donnent forme. Ayez grand soin de cet assemblage ! Votre meilleur investissement sera toujours et en tout temps l’activité physique.</p>
-<p class="contenu">Il nous revient d’organiser et construire notre plan d’affaire et notre plan de développement. Et trouver rapidement quelques dates  compatibles avec nos occupations. J’ai hâte aussi de découvrir vos différents projets, essentiels pour l'avenir.</p><br/><br/><br/>
-
-</div>
-<hr/>
-<center><h2 style="color : red ">Déroulement de l'hackaton</h2></center><br/><br/>
-<p>Les participants seront encadrés durant les 3 jours de concours par des experts du domaine de la santé et de l’entreprenariat pour présenter le projet le plus réaliste et innovant lors de leur passage devant le jury.</p>
-<p> Equipe comprise entre 5 et 10, chacun posédant des compétences varié, tel que <strong> l'informatique, le marketing ou la médecine</strong></p><br/><br/>
-<hr/>
-<center><h2 style="color : blue" > Différent prix à remporter </h2></center><br/><br/><br/>
-<li> Prix de <b>5 000€</b> attribué par la Ville de Nice </li>
-<li> 1 <b>drone Parrot</b> offert par Le Point </li>
-<li> 1 an d’adhésion gratuite chez <b>Telecom Valley</b> pour toute entreprise créé dans l’année suivant le Hackathon Neuroplanète </li>
-<li> 1 prix « Orange » : à définir </li>
-<li> 2 prix IBM d’une valeur de <b>12000$</b> chacun (soit 24 000$) sous forme de crédit d’usage du cloud IBM pour les 2 premiers projets ainsi qu’une session de support technique individuelle. Les critères d’attribution seront fonction de l’usage des API Bluemix d’IBM</li>
-<li>2 places au prochain <b>BrandBootCamp</b> by BrandSilver</li>
-<li>1 RDV de diagnostic approfondi avec les 3 premiers projets offert par l’Incubateur PACA Est<li/>
-<li>Prix spécial <b>Incubateur PACA Est</b> : 6 mois de préincubation</li>
-<li>Tous les participants seront gratifiés d’un abonnement numérique de 6 mois au Point.<li/>
-</FONT>
-</body>
-</html>
+Mauris mattis elit id erat commodo placerat. Curabitur in tellus non risus aliquam egestas. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean viverra, velit ultricies euismod ultrices, dui magna fringilla ante, eu blandit ex dui sit amet neque. Aenean mattis, est nec semper commodo, elit tellus efficitur tellus, ut congue enim eros finibus diam. Nulla facilisi. In posuere leo et magna viverra mattis. Fusce enim justo, elementum nec dui a, ullamcorper tempus diam. Curabitur vel cursus tortor, quis egestas lectus. Sed vitae consequat diam. Phasellus vel consequat leo, ut dapibus lectus. In sed est suscipit, ullamcorper quam at, fermentum nulla. Etiam tortor sapien, bibendum pulvinar accumsan sed, elementum sed dolor. Sed ut sagittis erat. Pellentesque sit amet lectus feugiat, rutrum velit eu, tristique diam.
