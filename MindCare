@@ -1,17 +1,57 @@
-<h1> Neuroplanete Hackathon 2016 : Mind Care</h1>
+<!doctype html>
+<html>
+<meta charset="UTF-8">
+<body style="background-color: powderblue;">
+
+<font size="6"</font>
+<h1> Neuroplanete Hackathon Nice 2016 </h1>
+
+<hr>
+
 
 
 <img
-src="http://www.brandsilver.fr/wp-content/uploads/2016/09/NEUROPLANETE-514x386.jpg">
+src="http://www.brandsilver.fr/wp-content/uploads/2016/09/NEUROPLANETE-514x386.jpg"</img>
+<img src="http://cdn.static02.nicematin.com/media/npo/1440w/2016/10/neuroplanete-2016.jpg">
+<hr>
 
-<img
-"http://images.google.fr/imgres?imgurl=https%3A%2F%2Fshop.igennus.com%2Fimages%2FC%2FMindCare-Logo-Vertical%2520-%2520Copy.jpg&imgrefurl=https%3A%2F%2Fshop.igennus.com%2FMindCare%2F&h=134&w=209&tbnid=1RzQHg9HTRpGXM%3A&docid=x3lM2In1dqt1_M&ei=LfwEWInQIISwa76_oMgF&tbm=isch&iact=rc&uact=3&dur=296&page=0&start=0&ndsp=15&ved=0ahUKEwjJmreHoeLPAhUE2BoKHb4fCFkQMwgeKAAwAA&bih=611&biw=1110"
-
-
+<font size="4"</font>
+<h2> Description de l'evenement</h2>
 <p> 
 <br>Le Hackathon Neuroplanete est axe sur le domaine de la sante connecte.
 </p>
-Vestibulum est metus, blandit at euismod sit amet, pretium a diam. Duis vestibulum mattis tellus, accumsan bibendum neque imperdiet et. Ut vulputate eu libero placerat consectetur. Maecenas lobortis tellus lacus, vel varius quam lacinia pellentesque. Nullam mattis sem in purus pulvinar euismod. Mauris viverra est hendrerit vestibulum lobortis. Mauris aliquet ex vel nibh dictum tempor. Quisque et risus eu lectus finibus pulvinar. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec rhoncus feugiat dolor. Fusce eu lacus ultricies, euismod nibh et, iaculis tortor.
 <p>
+La ville de Nice, conjointement avec son pole Innovation & Prospectives en Sante, la metropole Nice Côte d'Azur, le journal le Point et le programme international Hacking Health a organise le premier hackathon à Nice. Pendant 2 jours, et sous la tutelle de l'assocation Telecom Valley, des etudiants, des designers, des codeurs et autres specialites se retrouvent et creer des prototypes destines à developper des solutions numérique et mobiles pour la sante. Les differents participants doivent presenter leur projets avec leur problematique devant un jury. Ce jury est compose de representants de la ville de Nice, des professionnels tel que IBM, Orange ou Brainsilver. Ce jury designe le prix gagnat, et chaque entreprise remet egalement un prix au nom de son entreprise.</p> 
+<hr>
 
-Mauris mattis elit id erat commodo placerat. Curabitur in tellus non risus aliquam egestas. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean viverra, velit ultricies euismod ultrices, dui magna fringilla ante, eu blandit ex dui sit amet neque. Aenean mattis, est nec semper commodo, elit tellus efficitur tellus, ut congue enim eros finibus diam. Nulla facilisi. In posuere leo et magna viverra mattis. Fusce enim justo, elementum nec dui a, ullamcorper tempus diam. Curabitur vel cursus tortor, quis egestas lectus. Sed vitae consequat diam. Phasellus vel consequat leo, ut dapibus lectus. In sed est suscipit, ullamcorper quam at, fermentum nulla. Etiam tortor sapien, bibendum pulvinar accumsan sed, elementum sed dolor. Sed ut sagittis erat. Pellentesque sit amet lectus feugiat, rutrum velit eu, tristique diam.
+<img src="http://www.neuroplanete.com/wp-content/uploads/2016/07/hackathon.jpg"</img>
+<hr>
+<p>
+<font size="5"</font>
+<h3> L'application MindCare, laureat du prix IBM </h2>
+<FONT size="4"</font>
+<p> MindCare est un projet d'application en collaboration avec 7 etudiants de l'Edhec, 2 etudiants d'Ephitec, et un medecin Pol-Henry Guivarch. Le but de cette application est d'aider les personnes souffrants de problemes mentaux. Ces problemes peuvent etre des problemes psychologiques, mais egalement des maladies comme la skyzophrenie. MindCare est une plateforme ou les personnes qui souhaitent avoir des renseignements sur l'origine de leur probleme. L'application est divise en plusieurs parties. Une partie questionnaire, où l'individu va pouvoir mieux cerner l'origine de son problème. Une partie conseil, qui permettra a l'individu d'être rassure, et enfin une partie renseignement. Cette derniere partie sera une carte de la ville de Nice et ses environs ou les aides medicales comme les psychologogues, thérapheute, centre de soin specialise etc sera reference et chaque lieux aura une description avec les differentes specialites de chaque cabinet.</p>
+
+<p> IMB nous a remis son prix et souhaite developper cette application avec le soutien de la ville de Nice. Nous faisons desormais partie du Global Entrepreneurship Program. L'equipe MindCare se reunira le 31 octobre dans les locaux d'IMB afin de definir les objectifs ainsi que l'etendu des possibilités de cette application. Nous allons utilisé Watson, qui est un système cognitif. Cela va nous permettre de créer des questionnaires qui seront spécialisé à chaque utilisateurs. Il nous semble egalement important de remercier la ville de Nice d'avoir mis en place cette evenement. Il est important de develloper la sante, et d'encourager l'action d'etudiants et de professionnel. Nous esperons sincerement aider les personnes en difficulté, et nous avons une pensée pour les victimes des attentats et leurs proches. Notre initiative est étroitement lié à ce terrible evenement. Le projet de Mr Guivarch était autant axé sur les personnes avec des pathologies mental que les personnes touche de loin ou de prêt par ces evenements.</p>
+<hr>
+
+<font size="5"</font>
+<h4> Remerciement des différents acteurs de ce hackathon</h3>
+<img src="http://www.nicecotedazur.org/uploads/media_items/logo-metropole480.480.325.s.jpg"</img><img src="http://www.cnll.fr/image/logos/logo-telecomvalley.jpg"</img><img src="https://pbs.twimg.com/profile_images/762916910526820352/MW0ASOxh.jpg"</img><img 
+src="https://fi.co/documents/ibm-small-logo-2015-11-11.png"</img>
+
+
+
+
+
+
+
+<p> Voici un lien vers notre site web : <p>
+
+<a href="http://mindcareapp.wixsite.com/home">Cliquez ici<a>
+<hr>
+
+
+
+
+
